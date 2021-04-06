@@ -1,0 +1,4 @@
+Dla : POMIAR 1, temp = 23.300, a = 2.450, b = 3.450, c = -8.100, srednia geometryczna to:::: 6.320
+Dla : Pomiar 2, temp = 21.500, a = -12.450, b = 13.450, c = 7.800, srednia geometryczna to:::: 12.945
+Dla : Pomiar 3, temp = 22.000, a = 21.450, b = 31.450, c = 5.000, srednia geometryczna to:::: 16.505
+Dla : Pomiar 4, temp = 21.500, a = -12.450, b = 13.450, c = 7.800, srednia geometryczna to:::: 12.945
